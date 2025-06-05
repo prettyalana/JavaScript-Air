@@ -63,6 +63,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     setTimeout(() => {
       this.reset();
-    }, 5000);
+    });
   });
 });
