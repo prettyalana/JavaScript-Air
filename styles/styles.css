@@ -10,6 +10,7 @@ body {
   /* background: rgb(254, 221, 221); */
   height: 100vh;
   padding: 1rem;
+  text-align: center;
 }
 
 #form-id {
@@ -31,6 +32,11 @@ a {
   gap: 0.5rem;
   text-decoration: none;
   font-weight: 900;
+}
+
+.header-wrapper {
+  height: 20%;
+  padding: 1rem;
 }
 
 h1 {
